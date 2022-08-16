@@ -17,7 +17,8 @@ public class Demo1Test
 		String url = p.getProperty("url");
 		System.out.println("Welcome to Jenkins");
 		System.out.println(url);
-		System.out.println("Continues Deploy");
+		System.out.println(" Deploy");
+		System.out.println("helo Deploy");
 	
 		
 	}
