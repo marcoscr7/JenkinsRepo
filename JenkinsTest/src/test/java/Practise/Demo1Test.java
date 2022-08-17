@@ -18,7 +18,7 @@ public class Demo1Test
 		System.out.println("Welcome to Jenkins");
 		System.out.println(url);
 		System.out.println(" Deploy");
-		System.out.println("helo Deploy");
+		
 	
 		
 	}
